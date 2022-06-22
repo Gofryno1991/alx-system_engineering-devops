@@ -1,4 +1,5 @@
 
 #!/bin/bash
-# My first shell script
-printf "/root/alx-system_engineering-devops/0x00-shell_basics\n"
+
+cat > /root/alx-system_engineering_devops/0x00-shell_basics/0-current_working_directory <<EOL
+echo "/root/alx-system_engineering_devops/0x00-shell_basics
