@@ -1,1 +1,0 @@
-it contains shell scripting
